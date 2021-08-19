@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "Blair Community Garden",
   },
-  plugins: ["gatsby-plugin-gatsby-cloud"],
+  plugins: ["gatsby-plugin-gatsby-cloud", `gatsby-plugin-sass`], 
 };

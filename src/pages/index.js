@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { pageStyles, headingStyles, headingAccentStyles, paragraphStyles, codeStyles, listStyles, listItemStyles, linkStyle, docLinkStyle, descriptionStyle, docLink, badgeStyle } from '../styles/index-styles.js';
+import { pageStyles, headingStyles, paragraphStyles } from '../styles/index-styles.js';
 
 const IndexPage = () => {
   return (
