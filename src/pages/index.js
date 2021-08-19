@@ -1,12 +1,12 @@
-import * as React from 'react'
-import { pageStyles, headingStyles, paragraphStyles } from '../styles/index-styles.js';
+import * as React from 'react';
+import '../styles/index-styles.sass';
 
 const IndexPage = () => {
   return (
-    <main style={pageStyles}>
+    <main>
       <title>Blair Community Garden</title>
-      <h1 style={headingStyles}>Welcome to Blair Community Garden!</h1>
-      <p style={paragraphStyles}>A site for Blair gardeners. More coming soon!</p>
+      <h1>Welcome to Blair Community Garden!</h1>
+      <p>A site for Blair gardeners. More coming soon!</p>
     </main>
   )
 }
