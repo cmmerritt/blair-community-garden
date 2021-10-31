@@ -30,7 +30,7 @@ const IndexPage = () => {
           The nursery proper occupies about seven acres of a forty-acre farm. Four-and-a-half acres are devoted to gardens and stock fields, a half-acre to retail sales, and three acres to growing space.
           <br />
           <br />
-          https://www.instagram.com/joycreeknursery/?hl=en
+          <a href="https://www.instagram.com/joycreeknursery/?hl=en">https://www.instagram.com/joycreeknursery/?hl=en</a>
         </p>
       </body>
     </main>
